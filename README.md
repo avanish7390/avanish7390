@@ -27,8 +27,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avanish7390&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt=""/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanish7390&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+  </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanish7390&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt=""/>
-</div>
+
 
 
 ## 🏆 GitHub Trophies
@@ -37,10 +38,10 @@
 <div align="center">
   
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizonta&theme=radical" />
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/?type=horizontal&theme=radical' style="height: 400px;" />
+<img src='https://randommeme-five.vercel.app/?type=horizontal&theme=radical' style="height: 600px;"   />
 </div>
 
 
