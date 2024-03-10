@@ -9,7 +9,7 @@
 <br>[![](https://visitcount.itsvg.in/api?id=avanish7390&icon=2&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avanish-singh-6aa154205) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9116670195297321) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/911667019529732136) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avanish_singh_785) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@singhavanish7700) 
 [![Gmail](https://img.shields.io/badge/Email-DC143C?logo=gmail&logoColor=blue)](singhavanish7700@gmail.com) 
