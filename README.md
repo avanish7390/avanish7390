@@ -35,13 +35,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=avanish7390&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
+<div align="flex">
   
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizonta&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizonta&theme=radical"  />
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/?type=horizontal&theme=radical' style="width:400px;"   />
+<img src='https://randommeme-five.vercel.app/?type=horizontal&theme=radical' width="300px" height="300px"  />
 </div>
 
 
