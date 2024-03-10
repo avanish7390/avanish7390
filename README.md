@@ -41,7 +41,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizonta&theme=radical" />
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/?type=horizontal&theme=radical' style="height: 600px;"   />
+<img src='https://randommeme-five.vercel.app/?type=horizontal&theme=radical' style="width:400px;"   />
 </div>
 
 
