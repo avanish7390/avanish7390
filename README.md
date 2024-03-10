@@ -12,7 +12,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/911667019529732136) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avanish_singh_785) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@singhavanish7700) 
-[![Gmail](https://img.shields.io/badge/Email-DC143C?logo=gmail&logoColor=blue)](singhavanish7700@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Email-DC143C?logo=gmail&logoColor=blue)](mailto:singhavanish7700@gmail.com) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avanishsin7390) 
 
 
