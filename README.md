@@ -1,7 +1,7 @@
 ![logo](https://github.com/avanish7390/avanish7390/blob/main/LOGO.gif)
 <h1 align="center">Hi 👋, I'm AVANISH SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
 # 💫 About Me: <br>
 🌱 I’m currently learning NODE JS<br>
 👯 I’m looking to collaborate on<br>
@@ -40,9 +40,7 @@
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width:80%; height:180px;" />
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/?type=horizontal&theme=radical' style="width:500px; height:300px;"  />
-</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
