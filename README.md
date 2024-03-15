@@ -1,7 +1,7 @@
 ![logo](https://github.com/avanish7390/avanish7390/blob/main/LOGO.gif)
 <h1 align="center">Hi 👋, I'm AVANISH SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
 # 💫 About Me: <br>
 🌱 I’m currently learning NODE JS<br>
 👯 I’m looking to collaborate on<br>
