@@ -1,7 +1,7 @@
 ![logo](https://github.com/avanish7390/avanish7390/blob/main/LOGO.gif)
 <h1 align="center">Hi 👋, I'm AVANISH SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0aGRhNWV2eGZ4ZmZtaWpiem15NHBxNnRtMTE3M21qYjNmbjNjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/avanish7390/avanish7390/blob/main/NUX_Octodex.gif">
 # 💫 About Me: <br>
 🌱 I’m currently learning NODE JS<br>
 👯 I’m looking to collaborate on<br>
