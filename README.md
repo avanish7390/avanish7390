@@ -43,8 +43,6 @@
 
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 <div align="center">
 <img src="https://github.com/avanish7390/avanish7390/blob/output/snake.svg" alt="Snake animation" />
 </div>
